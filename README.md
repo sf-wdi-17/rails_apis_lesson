@@ -87,7 +87,7 @@ Create a route `/movie` and corresponding controller action and views for this i
 
 ```
 GET /movie?q=tt0477348
-``
+```
 
 Our app needs to make a request to the OMDB API for the movie with this ID and present the user with an HTML page containing these results.
 
